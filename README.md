@@ -79,7 +79,6 @@ I plan to focus on the following areas in future projects:
 
 ## Author
 
-- Website - [Ashish Mishra](https://mishrashish.com.np/)
-- Linkedin - [@ashish-mishra-54419231a](https://www.linkedin.com/in/ashish-mishra-54419231a/)
+- Aaditya Barnawal
 
 
